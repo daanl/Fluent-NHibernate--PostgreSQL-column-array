@@ -1,0 +1,81 @@
+2014-01-30 21:49:58,639 [1] DEBUG HibernatingRhinos.Profiler.Client.Host.ClientService [(null)] - Profiler initialized. Build: 2217
+2014-01-30 21:49:59,017 [1] DEBUG HibernatingRhinos.Profiler.Client.Host.ClientService [(null)] - Attempt to start HTTP listener
+2014-01-30 21:49:59,017 [1] DEBUG HibernatingRhinos.Profiler.Client.Host.ClientService [(null)] - HTTP listener started successfully
+2014-01-30 21:50:06,728 [8] WARN  Rhino.Licensing.AbstractLicenseValidator [(null)] - License expiration date is 04/29/2012 17:05:06
+2014-01-30 21:50:07,907 [8] DEBUG Rhino.Licensing.AbstractLicenseValidator [(null)] - License accepted for NHibernate Profiler
+2014-01-30 21:50:07,913 [10] INFO  HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.ProfilerAutoUpdate [(null)] - Checking for updates...
+2014-01-30 21:50:08,058 [8] DEBUG Rhino.Licensing.AbstractLicenseValidator [(null)] - License accepted for NHibernate Profiler
+2014-01-30 21:50:08,370 [9] INFO  HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.ProfilerAutoUpdate [(null)] - Found an update, starting downloading build #2229
+2014-02-02 13:34:37,386 [1] DEBUG HibernatingRhinos.Profiler.Client.Host.ClientService [(null)] - Profiler initialized. Build: 2217
+2014-02-02 13:34:37,768 [1] DEBUG HibernatingRhinos.Profiler.Client.Host.ClientService [(null)] - Attempt to start HTTP listener
+2014-02-02 13:34:37,769 [1] DEBUG HibernatingRhinos.Profiler.Client.Host.ClientService [(null)] - HTTP listener started successfully
+2014-02-02 13:34:40,123 [8] WARN  Rhino.Licensing.AbstractLicenseValidator [(null)] - License expiration date is 04/29/2012 17:05:06
+2014-02-02 13:34:41,090 [8] DEBUG Rhino.Licensing.AbstractLicenseValidator [(null)] - License accepted for NHibernate Profiler
+2014-02-02 13:34:41,128 [9] INFO  HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.ProfilerAutoUpdate [(null)] - Checking for updates...
+2014-02-02 13:34:41,186 [8] DEBUG Rhino.Licensing.AbstractLicenseValidator [(null)] - License accepted for NHibernate Profiler
+2014-02-02 13:34:41,535 [7] INFO  HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.ProfilerAutoUpdate [(null)] - Found an update, starting downloading build #2231
+2014-02-02 13:41:47,797 [1] DEBUG HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.AutoUpdateTask [(null)] - Registering file NHProf.exe to be updated with C:\Projects\CloudGameServers.Portal\packages\NHibernateProfiler.2.0.2217.0\tools\AutoUpdate\NHProf.exe
+2014-02-02 13:41:47,797 [1] DEBUG HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.AutoUpdateTask [(null)] - Registering file HibernatingRhinos.Profiler.Appender.dll to be updated with C:\Projects\CloudGameServers.Portal\packages\NHibernateProfiler.2.0.2217.0\tools\AutoUpdate\HibernatingRhinos.Profiler.Appender.dll
+2014-02-02 13:41:47,797 [1] DEBUG HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.AutoUpdateTask [(null)] - Registering file HibernatingRhinos.Profiler.BackEnd.dll to be updated with C:\Projects\CloudGameServers.Portal\packages\NHibernateProfiler.2.0.2217.0\tools\AutoUpdate\HibernatingRhinos.Profiler.BackEnd.dll
+2014-02-02 13:41:47,797 [1] DEBUG HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.AutoUpdateTask [(null)] - Registering file HibernatingRhinos.Profiler.Integration.dll to be updated with C:\Projects\CloudGameServers.Portal\packages\NHibernateProfiler.2.0.2217.0\tools\AutoUpdate\HibernatingRhinos.Profiler.Integration.dll
+2014-02-02 13:41:47,797 [1] DEBUG HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.AutoUpdateTask [(null)] - Registering file HibernatingRhinos.Profiler.Client.Host.dll to be updated with C:\Projects\CloudGameServers.Portal\packages\NHibernateProfiler.2.0.2217.0\tools\AutoUpdate\HibernatingRhinos.Profiler.Client.Host.dll
+2014-02-02 13:41:47,797 [1] DEBUG HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.AutoUpdateTask [(null)] - Registering file HibernatingRhinos.Profiler.Client.SL.xap to be updated with C:\Projects\CloudGameServers.Portal\packages\NHibernateProfiler.2.0.2217.0\tools\AutoUpdate\HibernatingRhinos.Profiler.Client.SL.xap
+2014-02-02 13:41:47,798 [1] DEBUG HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.AutoUpdateTask [(null)] - Registering file HibernatingRhinos.Profiler.Production.dll to be updated with C:\Projects\CloudGameServers.Portal\packages\NHibernateProfiler.2.0.2217.0\tools\AutoUpdate\HibernatingRhinos.Profiler.Production.dll
+2014-02-02 13:41:47,798 [1] DEBUG HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.AutoUpdateTask [(null)] - Registering file log4net.dll to be updated with C:\Projects\CloudGameServers.Portal\packages\NHibernateProfiler.2.0.2217.0\tools\AutoUpdate\log4net.dll
+2014-02-02 13:41:47,798 [1] DEBUG HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.AutoUpdateTask [(null)] - Registering file System.Reactive.Core.dll to be updated with C:\Projects\CloudGameServers.Portal\packages\NHibernateProfiler.2.0.2217.0\tools\AutoUpdate\System.Reactive.Core.dll
+2014-02-02 13:41:47,798 [1] DEBUG HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.AutoUpdateTask [(null)] - Registering file System.Reactive.Interfaces.dll to be updated with C:\Projects\CloudGameServers.Portal\packages\NHibernateProfiler.2.0.2217.0\tools\AutoUpdate\System.Reactive.Interfaces.dll
+2014-02-02 13:41:47,798 [1] DEBUG HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.AutoUpdateTask [(null)] - Registering file System.Reactive.Linq.dll to be updated with C:\Projects\CloudGameServers.Portal\packages\NHibernateProfiler.2.0.2217.0\tools\AutoUpdate\System.Reactive.Linq.dll
+2014-02-02 13:41:47,798 [1] DEBUG HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.AutoUpdateTask [(null)] - Registering file System.Reactive.PlatformServices.dll to be updated with C:\Projects\CloudGameServers.Portal\packages\NHibernateProfiler.2.0.2217.0\tools\AutoUpdate\System.Reactive.PlatformServices.dll
+2014-02-02 13:41:47,798 [1] DEBUG HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.AutoUpdateTask [(null)] - Registering file Newtonsoft.Json.dll to be updated with C:\Projects\CloudGameServers.Portal\packages\NHibernateProfiler.2.0.2217.0\tools\AutoUpdate\Newtonsoft.Json.dll
+2014-02-02 13:41:47,798 [1] DEBUG HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.AutoUpdateTask [(null)] - Registering file gudusoft.gsqlparser.dll to be updated with C:\Projects\CloudGameServers.Portal\packages\NHibernateProfiler.2.0.2217.0\tools\AutoUpdate\gudusoft.gsqlparser.dll
+2014-02-02 13:41:47,798 [1] DEBUG HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.AutoUpdateTask [(null)] - Registering file NAppUpdate.Framework.dll to be updated with C:\Projects\CloudGameServers.Portal\packages\NHibernateProfiler.2.0.2217.0\tools\AutoUpdate\NAppUpdate.Framework.dll
+2014-02-02 13:41:47,798 [1] DEBUG HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.AutoUpdateTask [(null)] - Registering file NAppUpdate.Framework.pdb to be updated with C:\Projects\CloudGameServers.Portal\packages\NHibernateProfiler.2.0.2217.0\tools\AutoUpdate\NAppUpdate.Framework.pdb
+2014-02-02 13:41:47,798 [1] DEBUG HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.AutoUpdateTask [(null)] - Registering file license.txt to be updated with C:\Projects\CloudGameServers.Portal\packages\NHibernateProfiler.2.0.2217.0\tools\AutoUpdate\license.txt
+2014-02-02 13:41:47,798 [1] DEBUG HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.AutoUpdateTask [(null)] - Registering file How to use.txt to be updated with C:\Projects\CloudGameServers.Portal\packages\NHibernateProfiler.2.0.2217.0\tools\AutoUpdate\How to use.txt
+2014-02-02 13:41:47,798 [1] DEBUG HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.AutoUpdateTask [(null)] - Registering file Acknowledgments.txt to be updated with C:\Projects\CloudGameServers.Portal\packages\NHibernateProfiler.2.0.2217.0\tools\AutoUpdate\Acknowledgments.txt
+2014-02-02 13:41:47,798 [1] DEBUG HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.AutoUpdateTask [(null)] - Registering file HibernatingRhinos.Profiler.Appender.NHibernateLog4Net.dll to be updated with C:\Projects\CloudGameServers.Portal\packages\NHibernateProfiler.2.0.2217.0\tools\AutoUpdate\HibernatingRhinos.Profiler.Appender.NHibernateLog4Net.dll
+2014-02-02 13:41:47,798 [1] DEBUG HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.AutoUpdateTask [(null)] - Registering file ICSharpCode.SharpZipLib.dll to be updated with C:\Projects\CloudGameServers.Portal\packages\NHibernateProfiler.2.0.2217.0\tools\AutoUpdate\ICSharpCode.SharpZipLib.dll
+2014-02-02 13:44:43,285 [1] DEBUG HibernatingRhinos.Profiler.Client.Host.ClientService [(null)] - Profiler initialized. Build: 2231
+2014-02-02 13:44:43,357 [1] INFO  HibernatingRhinos.Profiler.Client.Services.LicensingService [(null)] - Using floating license server: 
+2014-02-02 13:44:43,532 [1] DEBUG HibernatingRhinos.Profiler.Client.Host.ClientService [(null)] - Attempt to start HTTP listener
+2014-02-02 13:44:43,532 [1] DEBUG HibernatingRhinos.Profiler.Client.Host.ClientService [(null)] - HTTP listener started successfully
+2014-02-02 13:44:46,065 [6] WARN  Rhino.Licensing.AbstractLicenseValidator [(null)] - License expiration date is 04/29/2012 17:05:06
+2014-02-02 13:44:46,812 [6] DEBUG Rhino.Licensing.AbstractLicenseValidator [(null)] - License accepted for NHibernate Profiler
+2014-02-02 13:44:46,815 [10] INFO  HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.ProfilerAutoUpdate [(null)] - Checking for updates...
+2014-02-02 13:44:46,879 [6] DEBUG Rhino.Licensing.AbstractLicenseValidator [(null)] - License accepted for NHibernate Profiler
+2014-02-03 12:50:19,283 [1] DEBUG HibernatingRhinos.Profiler.Client.Host.ClientService [(null)] - Profiler initialized. Build: 2231
+2014-02-03 12:50:19,386 [1] INFO  HibernatingRhinos.Profiler.Client.Services.LicensingService [(null)] - Using floating license server: 
+2014-02-03 12:50:19,656 [1] DEBUG HibernatingRhinos.Profiler.Client.Host.ClientService [(null)] - Attempt to start HTTP listener
+2014-02-03 12:50:19,656 [1] DEBUG HibernatingRhinos.Profiler.Client.Host.ClientService [(null)] - HTTP listener started successfully
+2014-02-03 12:50:22,226 [10] WARN  Rhino.Licensing.AbstractLicenseValidator [(null)] - License expiration date is 04/29/2012 17:05:06
+2014-02-03 12:50:23,146 [9] ERROR Rhino.Licensing.Discovery.DiscoveryClient [(null)] - Failed to publish application's presence
+System.Net.Sockets.SocketException (0x80004005): A socket operation was attempted to an unreachable host
+   at System.Net.Sockets.Socket.EndSendTo(IAsyncResult asyncResult)
+   at System.Net.Sockets.UdpClient.EndSend(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Rhino.Licensing.Discovery.DiscoveryClient.<PublishMyPresence>d__2.MoveNext()
+2014-02-03 12:50:23,146 [10] DEBUG Rhino.Licensing.AbstractLicenseValidator [(null)] - License accepted for NHibernate Profiler
+2014-02-03 12:50:23,187 [4] INFO  HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.ProfilerAutoUpdate [(null)] - Checking for updates...
+2014-02-03 12:50:23,247 [10] DEBUG Rhino.Licensing.AbstractLicenseValidator [(null)] - License accepted for NHibernate Profiler
+2014-02-03 12:50:23,247 [19] ERROR Rhino.Licensing.Discovery.DiscoveryClient [(null)] - Failed to publish application's presence
+System.Net.Sockets.SocketException (0x80004005): A socket operation was attempted to an unreachable host
+   at System.Net.Sockets.Socket.EndSendTo(IAsyncResult asyncResult)
+   at System.Net.Sockets.UdpClient.EndSend(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Rhino.Licensing.Discovery.DiscoveryClient.<PublishMyPresence>d__2.MoveNext()
+2014-02-03 13:00:23,189 [11] ERROR Rhino.Licensing.Discovery.DiscoveryClient [(null)] - Failed to publish application's presence
+System.Net.Sockets.SocketException (0x80004005): A socket operation was attempted to an unreachable host
+   at System.Net.Sockets.Socket.EndSendTo(IAsyncResult asyncResult)
+   at System.Net.Sockets.UdpClient.EndSend(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Rhino.Licensing.Discovery.DiscoveryClient.<PublishMyPresence>d__2.MoveNext()
+2014-02-08 09:51:21,220 [1] DEBUG HibernatingRhinos.Profiler.Client.Host.ClientService [(null)] - Profiler initialized. Build: 2217
